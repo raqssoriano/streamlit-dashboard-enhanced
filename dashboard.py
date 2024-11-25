@@ -122,7 +122,7 @@ st.write("The pie chart shows how students are spread across different learning 
 
 
 pastel_colors = px.colors.qualitative.Pastel
-pie_chart = px.pie(grouped_data, names='learning_modality', values='operational_schools', title='Operational Schools by Learning Modality', color_discrete_sequence=pastel_colors)
+pie_chart = px.pie(grouped_data, names='learning_modality', values='student_count', title='Percentage of Students in each Learning Modality', color_discrete_sequence=pastel_colors)
 pie_chart.update_traces(textposition='inside', textinfo='percent+label', texttemplate='%{label} (%{percent})<br>%{value:,.0f} students')
 st.plotly_chart(pie_chart)
 
