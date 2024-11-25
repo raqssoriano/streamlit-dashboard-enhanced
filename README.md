@@ -19,7 +19,7 @@
 
 ##### • For further information and a link to the data used: [HealthData.gov - School Learning Modalities 2020-2021](https://healthdata.gov/National/School-Learning-Modalities-2020-2021/a8v3-a3m3/about_data)
 
-##### • Courtesy of Professor Hants Williams' GitHub Repository: [streamlit-dashboard-enhanced](https://github.com/raqssoriano/streamlit-dashboard-enhanced/tree/main)
+##### • Courtesy of Professor Hants Williams' GitHub Repository: [streamlit-dashboard-enhanced](https://github.com/hantswilliams/507-streamlit-demo)
 
 ##### • Other links used to perform the data visualizations/widgets: A combination of [Streamlit Documentation](https://docs.streamlit.io/) and **`GitHub Copilot`** within **`Visual Studio Code`**, which I modified to make it more personalized. Also, I watched several **YouTube videos** to complete the visualizations/widgets section.
 
